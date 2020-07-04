@@ -1,0 +1,22 @@
+.thumbnail img{
+ height: 100%; /* change this to 'auto'*/
+  max-width:130px; 
+	 max-height:130px;/* add this for 'making sure'*/
+  vertical-align: middle;
+  width: 100%;
+}
+.thumbnail{
+	padding:0;
+}
+.thumbnail .caption-full{
+	padding:9px;
+}
+#delete{
+	display:inline;
+}
+#form-comm{
+	display:inline;
+}
+#picture{
+
+}
